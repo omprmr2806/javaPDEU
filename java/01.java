@@ -15,7 +15,6 @@ class PrimeNumber{
         else{
             System.out.println("prime number");
     }
-        // System.out.println("Hello,G10 Students");
     }
     sc.Close();
 }
