@@ -1,7 +1,7 @@
 package Lab_5;
 import java.util.*;
 
-public class tryExcept {
+public class Lab5_1_tryExcept {
     public static void main(String[] args){
         
         int[] arr={1,2,3,4,5,65};
